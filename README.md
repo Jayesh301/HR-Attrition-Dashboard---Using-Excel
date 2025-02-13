@@ -14,3 +14,8 @@ This project involves analyzing **HR Employee Attrition** using **Microsoft Exce
 - **Attrition Trends** based on Age, Department, and Job Role.  
 - **Comparison of High vs. Low Attrition Departments.**  
 - **Tenure & Attrition Correlation Analysis.**  
+
+## 🛠️ Tech Stack  
+- **Microsoft Excel** – Data analysis & visualization.  
+- **Pivot Tables & Pivot Charts** – Data summarization.  
+- **Conditional Formatting** – Highlighting key trends. 
